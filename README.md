@@ -29,6 +29,7 @@ this code is inspired by [theano implementation](https://github.com/lukecq1231/n
 bash fetch_and_preprocess.sh
 ```
 2. Train and test model for ESIM
+```
 python3 train.py
 python3 test.py
 ```
