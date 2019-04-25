@@ -1,5 +1,7 @@
 # Enhanced LSTM for Natural Language Inference
 pytorch implementation of esim
+this code has not achieved the 88.0% accuracy on test set yet.
+89.07% on train and 87.95% on dev set and 87.65% on test set.
 
 **"Enhanced LSTM for Natural Language Inference"**
 Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang, Diana Inkpen. _ACL (2017)_ 
